@@ -25,21 +25,16 @@ function App() {
   const [shipListings, setShipSales] = React.useState<ShipListing[]>([]);
 
   React.useEffect(() => {
-    fetch("/ships.csv")
-      .then((response) => {
-        response.text().then((text) => {
-          Papa.parse(text, {
-            header: true,
-            complete: (result: Papa.ParseResult<ShipListing>) => {
-              console.log(result.data);
-              setShipSales(result.data);
-            },
-          });
+    fetch("/rti-shipyard/ships.csv").then((response) => {
+      response.text().then((text) => {
+        Papa.parse(text, {
+          header: true,
+          complete: (result: Papa.ParseResult<ShipListing>) => {
+            setShipSales(result.data);
+          },
         });
-      })
-      .catch((error) => {
-        console.log(error);
       });
+    });
   }, []);
 
   return (
