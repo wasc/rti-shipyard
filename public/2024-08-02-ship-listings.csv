@@ -1,0 +1,329 @@
+name,corporationPrice,alliancePrice,additionalNotes
+Vassago,"128,376,304,000","139,539,461,000",* Buyer provides VAS and carrier blueprints
+Astarte,"126,899,788,000","137,934,553,000",* Buyer provides VAS and carrier blueprints
+Villain,"126,899,788,000","137,934,553,000",* Buyer provides VAS and carrier blueprints
+Anaconda,"127,610,405,000","138,706,962,000",* Buyer provides VAS and carrier blueprints
+Astarte upgrade,"96,192,106,000","104,556,637,000",* Buyer provides VAS blueprint and carrier hull
+Villain upgrade,"96,192,106,000","104,556,637,000",* Buyer provides VAS blueprint and carrier hull
+Vassago upgrade,"96,902,760,000","105,329,087,000",* Buyer provides VAS blueprint and carrier hull
+Anaconda upgrade,"96,902,760,000","105,329,087,000",* Buyer provides VAS blueprint and carrier hull
+Rhea,"86,222,371,000","93,719,969,000",* Buyer provides jf and freighter blueprints
+Anshar,"85,569,219,000","93,010,021,000",* Buyer provides jf and freighter blueprints
+Ark,"85,733,729,000","93,188,836,000",* Buyer provides jf and freighter blueprints
+Nomad,"86,251,937,000","93,752,106,000",* Buyer provides jf and freighter blueprint
+Rhea upgrade,"70,927,600,000","77,095,218,000",* Buyer provides jf blueprint and freighter hull
+Anshar upgrade,"70,044,640,000","76,135,479,000",* Buyer provides jf blueprint and freighter hull
+Ark upgrade,"70,044,640,000","76,135,479,000",* Buyer provides jf blueprint and freighter hull
+Nomad upgrade,"70,458,008,000","76,584,792,000",* Buyer provides jf blueprint and freighter hull
+Apostle,"55,982,861,000","60,850,936,000",* Buyer provides blueprint
+Ninazu,"55,982,861,000","60,850,936,000",* Buyer provides blueprint
+Minokawa,"56,844,979,000","61,788,021,000",* Buyer provides blueprint
+Lif,"56,844,979,000","61,788,021,000",* Buyer provides blueprint
+Apostle Subsidy,"31,610,942,000","-",* Buyer provides blueprint. Only available to RTI members
+Ninazu Subsidy,"31,610,942,000","-",* Buyer provides blueprint. Only available to RTI members
+Minokawa Subsidy,"32,473,060,000","-",* Buyer provides blueprint. Only available to RTI members
+Lif Subsidy,"32,473,060,000","-",* Buyer provides blueprint. Only available to RTI members
+CyanSea,"55,025,164,000","59,809,961,000",* Buyer provides blueprint
+Rorqual,"49,413,765,000","53,710,615,000",* Buyer provides blueprint
+Revelation,"34,371,919,000","37,360,782,000",* Buyer provides blueprint
+Moros,"34,553,074,000","37,557,690,000",* Buyer provides blueprint
+Naglfar,"34,882,633,000","37,915,906,000",* Buyer provides blueprint
+Phoenix,"33,395,753,000","36,299,732,000",* Buyer provides blueprint
+Archon,"30,707,692,000","33,377,927,000",* Buyer provides blueprint
+Chimera,"30,707,692,000","33,377,927,000",* Buyer provides blueprint
+Nidhoggur,"30,707,692,000","33,377,927,000",* Buyer provides blueprint
+Thanatos,"30,707,692,000","33,377,927,000",* Buyer provides blueprint
+Archon Subsidy,"10,000,000,000","-",* Buyer provides blueprint. Only available to RTI members
+Chimera Subsidy,"10,000,000,000","-",* Buyer provides blueprint. Only available to RTI members
+Nidhoggur Subsidy,"10,000,000,000","-",* Buyer provides blueprint. Only available to RTI members
+Thanatos Subsidy,"10,000,000,000","-",* Buyer provides blueprint. Only available to RTI members
+Phoenix Subsidy,"10,000,000,000","-",* Buyer provides blueprint. Only available to RTI members
+Revelation Subsidy,"10,000,000,000","-",* Buyer provides blueprint. Only available to RTI members
+Naglfar Subsidy,"10,000,000,000","-",* Buyer provides blueprint. Only available to RTI members
+Moros Subsidy,"10,000,000,000","-",* Buyer provides blueprint. Only available to RTI members
+Charon,"15,294,784,000","16,624,766,000",* Buyer provides blueprint
+Obelisk,"15,524,587,000","16,874,552,000",* Buyer provides blueprint
+Providence,"15,689,097,000","17,053,367,000",* Buyer provides blueprint
+Fenrir,"15,793,940,000","17,167,327,000",* Buyer provides blueprint
+Megathron Navy Issue,"13,456,978,000","14,627,150,000",* Buyer provides blueprint
+Apocalypse Navy Issue,"13,128,721,000","14,270,349,000",* Buyer provides blueprint
+Megathron Navy Issue upgrade,"11,802,053,000","12,828,319,000",* Buyer provides blueprint
+Apocalypse Navy Issue upgrade,"11,456,140,000","12,452,327,000",* Buyer provides blueprint
+Tempest Navy Issue,"14,390,436,000","15,641,779,000",* Buyer provides blueprint and striker hull
+Raven Navy Issue,"14,657,204,000","15,931,744,000",* Buyer provides blueprint and striker hull
+Raven Navy Issue upgrade,"12,933,510,000","14,058,164,000",* Buyer provides blueprint and striker hull
+Tempest Navy Issue upgrade,"12,697,740,000","13,801,892,000",* Buyer provides blueprint and striker hull
+Saleos,"7,877,255,000","8,562,234,000",* Buyer provides sfc and fc blueprint
+Chameleon,"7,861,500,000","8,545,109,000",* Buyer provides sfc and fc blueprint
+Fiend,"7,508,929,000","8,161,880,000",* Buyer provides sfc and fc blueprint
+Adrestia,"7,445,793,000","8,093,254,000",* Buyer provides sfc and fc blueprint
+Saleos upgrade,"7,163,525,000","7,786,441,000",* Buyer provides blueprint and cruiser hull
+Chameleon upgrade,"7,144,594,000","7,765,864,000",* Buyer provides blueprint and cruiser hull
+Fiend upgrade,"6,815,503,000","7,408,156,000",* Buyer provides blueprint and cruiser hull
+Adrestia upgrade,"6,761,576,000","7,349,540,000",* Buyer provides blueprint and cruiser hull
+Bhaalgorn,"2,445,751,000","2,658,425,000",* Buyer provides blueprint
+Machariel,"2,401,890,000","2,610,750,000",* Buyer provides blueprint
+Nightmare,"2,336,833,000","2,540,036,000",* Buyer provides blueprint
+Nestor,"2,330,855,000","2,533,539,000",* Buyer provides blueprint
+Vindicator,"2,284,642,000","2,483,307,000",* Buyer provides blueprint
+Barghest,"2,199,607,000","2,390,878,000",* Buyer provides blueprint
+Rattlesnake,"2,194,234,000","2,385,037,000",* Buyer provides blueprint
+Noctis II,"1,721,022,000","1,870,677,000",
+Apocalypse Striker,"1,672,581,000","1,818,023,000",
+Armageddon II,"1,656,909,000","1,800,989,000",
+Tempest Striker,"1,692,701,000","1,839,893,000",
+Megathron Striker,"1,654,932,000","1,798,840,000",
+Dominix II,"1,646,249,000","1,789,402,000",
+Maelstrom,"1,723,169,000","1,873,010,000",
+Raven Striker,"1,723,698,000","1,873,585,000",
+Scorpion II,"1,695,152,000","1,842,557,000",
+Typhoon II,"1,682,826,000","1,829,159,000",
+Abaddon,"1,498,884,000","1,629,222,000",
+Hyperion,"1,490,327,000","1,619,921,000",
+Rokh,"1,526,034,000","1,658,733,000",
+Oracle III,"1,158,067,000","1,258,769,000",
+Talos III,"1,154,925,000","1,255,354,000",
+Harbinger Guardian,"1,128,312,000","1,226,427,000",
+Naga III,"1,199,383,000","1,303,678,000",
+Brutix Guardian,"1,127,950,000","1,226,033,000",
+Tornado III,"1,201,274,000","1,305,733,000",
+Drake Guardian,"1,163,835,000","1,265,039,000",
+Hurricane Guardian,"1,161,543,000","1,262,547,000",
+Mymidon II Command,"1,017,752,000","1,106,253,000",
+Prophecy II Command,"1,017,728,000","1,106,227,000",
+Orca,"1,159,907,000","1,260,769,000",
+Ferox II Command,"1,041,202,000","1,131,742,000",
+Cyclone II Command,"1,039,020,000","1,129,370,000",
+Celestis III Covert Ops,"787,045,000","855,484,000",
+Arbitrator III Covert Ops,"788,791,000","857,382,000",
+Maller Interdictor,"774,032,000","841,340,000",
+Blackbird III Covert Ops,"814,324,000","885,135,000",
+Thorax Interdictor,"763,919,000","830,347,000",
+Bellicose III Covert Ops,"812,394,000","883,037,000",
+Augoror II,"750,113,000","815,341,000",
+Exequror II,"745,840,000","810,696,000",
+Moa Interdictor,"792,237,000","861,128,000",
+Rupture Interdictor,"789,257,000","857,889,000",
+Scythe II,"727,953,000","791,254,000",
+Osprey II,"725,906,000","789,029,000",
+Gila,"716,912,000","779,253,000",* Buyer provides blueprint
+Ashimmu,"716,991,000","779,339,000",* Buyer provides blueprint
+Cynabal,"713,737,000","775,802,000",* Buyer provides blueprint
+Orthrus,"698,751,000","759,512,000",* Buyer provides blueprint
+Covetor II,"650,201,000","706,741,000",
+Phantasm,"693,430,000","753,729,000",* Buyer provides blueprint
+Omen II,"688,260,000","748,109,000",
+Vigilant,"684,218,000","743,716,000",* Buyer provides blueprint
+Stratios,"683,989,000","743,467,000",* Buyer provides blueprint
+Vexor II,"676,827,000","735,682,000",
+Caracal II,"654,323,000","711,221,000",
+Stabber II,"649,358,000","705,824,000",
+Algos II Assault,"432,080,000","469,653,000",
+Dragoon II Assault,"432,626,000","470,246,000",
+Armageddon,"495,735,000","538,843,000",
+Corax II Assault,"414,351,000","450,382,000",
+Apocalypse,"489,861,000","532,458,000",
+Dominix,"488,942,000","531,459,000",
+Megathron,"485,635,000","527,865,000",
+Talwar II Assault,"409,080,000","444,653,000",
+Raven,"555,264,000","603,548,000",
+Scorpion,"552,074,000","600,081,000",
+Typhoon,"532,275,000","578,560,000",
+Humpback Combat,"410,358,000","446,042,000",
+Humpback Hauling,"402,808,000","437,835,000",
+Tempest,"516,947,000","561,899,000",
+Catalyst III Interdictor,"323,752,000","351,905,000",
+Coercer III Interdictor,"324,279,000","352,478,000",
+Nereus II,"341,468,000","371,161,000",
+Thrasher III Interdictor,"335,169,000","364,315,000",
+Cormorant III Interdictor,"335,577,000","364,758,000",
+Sigil II,"337,188,000","366,509,000",
+Badger II,"321,410,000","349,359,000",
+Prophecy Guardian,"335,000,000","364,131,000",
+Wreathe II,"354,074,000","384,864,000",
+Harbinger Logistics,"326,885,000","355,310,000",
+Oracle II,"325,211,000","353,491,000",
+Myrmidon Guardian,"318,860,000","346,587,000",
+Talos II,"312,415,000","339,582,000",
+Brutix Logistics,"303,542,000","329,937,000",
+Executioner II Interceptor,"255,498,000","277,716,000",
+Atron II Interceptor,"254,149,000","276,249,000",
+Nemesis III,"247,955,000","269,517,000",
+Tornado II,"350,181,000","380,632,000",
+Cyclone Guardian,"345,623,000","375,678,000",
+Purifier III,"246,220,000","267,631,000",
+Covetor,"266,531,000","289,708,000",
+Condor II Interceptor,"262,519,000","285,347,000",
+Slasher II Interceptor,"261,047,000","283,747,000",
+Hound III,"239,865,000","260,723,000",
+Manticore III,"239,296,000","260,105,000",
+Drake Logistics,"340,736,000","370,366,000",
+Hurricane Logistics,"328,285,000","356,832,000",
+Humpback High Mobility,"293,191,000","318,686,000",
+Ferox Guardian,"334,194,000","363,255,000",
+Naga II,"327,518,000","355,998,000",
+Venture IV,"227,511,000","247,295,000",
+Imicus Explorer,"202,271,000","219,860,000",
+Magnate Explorer,"201,139,000","218,630,000",
+Probe Explorer,"209,400,000","227,609,000",
+Heron Explorer,"207,685,000","225,745,000",
+Arbitrator II Covert Ops,"225,964,000","245,614,000",
+Celestis II Covert Ops,"217,300,000","236,196,000",
+Astero,"196,951,000","214,078,000",* Buyer provides blueprint
+Succubus,"193,375,000","210,191,000",* Buyer provides blueprint
+Dramiel,"195,115,000","212,082,000",* Buyer provides blueprint
+Worm,"194,180,000","211,066,000",* Buyer provides blueprint
+Daredevil,"193,646,000","210,485,000",* Buyer provides blueprint
+Cruor,"190,750,000","207,337,000",* Buyer provides blueprint
+Bellicose II Covert Ops,"233,269,000","253,554,000",
+Blackbird II Covert Ops,"238,961,000","259,741,000",
+Garmur,"190,487,000","207,052,000",* Buyer provides blueprint
+Myrmidon Command,"173,567,000","188,660,000",
+Harbinger,"169,520,000","184,261,000",
+Brutix,"164,492,000","178,796,000",
+Prophecy Command,"162,564,000","176,700,000",
+Oracle,"161,982,000","176,068,000",
+Talos,"159,322,000","173,177,000",
+Noctis,"166,783,000","181,286,000",
+Cyclone Command,"182,509,000","198,380,000",
+Tornado,"174,933,000","190,145,000",
+Hurricane,"174,152,000","189,296,000",
+Drake,"172,398,000","187,390,000",
+Naga,"170,287,000","185,095,000",
+Ferox Command,"166,505,000","180,984,000",
+Procurer,"127,080,000","138,131,000",
+Arbitrator Interdictor,"116,503,000","126,634,000",
+Omen Sniper,"115,479,000","125,521,000",
+Vexor Sniper,"113,882,000","123,785,000",
+Celestis Interdictor,"112,783,000","122,591,000",
+Harbinger Prototype,"121,019,000","131,543,000",
+Prophecy,"118,650,000","128,968,000",
+Moa II Guardian,"124,236,000","135,040,000",
+Rupture II Guardian,"122,584,000","133,244,000",
+Thorax II Guardian,"106,293,000","115,536,000",
+Stabber Sniper,"120,792,000","131,296,000",
+Caracal Sniper,"119,621,000","130,023,000",
+Myrmidon,"112,776,000","122,583,000",
+Maller II Guardian,"106,583,000","115,852,000",
+Coercer II Interdictor,"111,752,000","121,470,000",
+Blackbird Interdictor,"119,168,000","129,531,000",
+Catalyst II Interdictor,"111,082,000","120,742,000",
+Bellicose Interdictor,"118,462,000","128,764,000",
+Hurricane Prototype,"132,587,000","144,117,000",
+Ferox,"126,483,000","137,482,000",
+Cyclone,"126,718,000","137,737,000",
+Thrasher II Interdictor,"119,946,000","130,377,000",
+Cormorant II Interdictor,"117,180,000","127,370,000",
+Nereus,"81,597,000","88,693,000",
+Sigil,"81,972,000","89,100,000",
+Augoror,"86,908,000","94,466,000",
+Thorax Guardian,"85,264,000","92,679,000",
+Exequror,"84,851,000","92,230,000",
+Celestis Covert Ops,"84,164,000","91,483,000",
+Badger,"89,704,000","97,505,000",
+Maller Guardian,"82,876,000","90,083,000",
+Arbitrator Covert Ops,"81,971,000","89,099,000",
+Wreathe,"87,914,000","95,559,000",
+Moa Guardian,"91,374,000","99,320,000",
+Blackbird Covert Ops,"90,257,000","98,106,000",
+Scythe,"89,787,000","97,595,000",
+Osprey,"89,436,000","97,214,000",
+Bellicose Covert Ops,"88,677,000","96,389,000",
+Rupture Guardian,"86,232,000","93,731,000",
+Purifier II,"70,547,000","76,682,000",
+Nemesis II,"70,574,000","76,711,000",
+Manticore II,"78,889,000","85,749,000",
+Corax Command,"62,745,000","68,202,000",
+Talwar Command,"61,518,000","66,868,000",
+Hound II,"74,411,000","80,882,000",
+Algos Commnd,"60,514,000","65,777,000",
+Dragoon Command,"61,765,000","67,136,000",
+Nereus Hauling,"55,768,000","60,618,000",
+Retriever,"51,956,000","56,474,000",
+Dragoon Assault,"41,243,000","44,830,000",
+Algos Assault,"40,807,000","44,356,000",
+Executioner Interceptor,"36,561,000","39,741,000",
+Atron Interceptor,"36,067,000","39,204,000",
+Thorax,"42,251,000","45,925,000",
+Celestis,"41,318,000","44,911,000",
+Maller,"41,015,000","44,582,000",
+Omen Navy Issue,"41,015,000","44,582,000",
+Arbitrator,"40,234,000","43,733,000",
+Condor Interceptor,"38,594,000","41,950,000",
+Corax Assault,"44,378,000","48,237,000",
+Vexor Navy Issue,"39,342,000","42,764,000",
+Slasher Interceptor,"36,687,000","39,878,000",
+Nereus Combat,"32,815,000","35,669,000",
+Stabber Fleet Issue,"46,791,000","50,860,000",
+Talwar Assault,"38,081,000","41,393,000",
+Bellicose,"44,867,000","48,769,000",
+Caracal Navy Issue,"44,669,000","48,554,000",
+Moa,"43,505,000","47,289,000",
+Blackbird,"43,179,000","46,934,000",
+Rupture,"42,672,000","46,383,000",
+Punisher Assault,"27,440,000","29,827,000",
+Incursus Assault,"25,705,000","27,941,000",
+Kryos,"28,063,000","30,504,000",
+Bestower,"26,085,000","28,354,000",
+Merlin Assault,"27,025,000","29,375,000",
+Breacher Assault,"26,766,000","29,094,000",
+Mammoth,"29,581,000","32,154,000",
+Algos Sniper,"21,541,000","23,415,000",
+Catalyst Interdictor,"21,245,000","23,093,000",
+Dragoon Sniper,"21,110,000","22,946,000",
+Tayra,"27,929,000","30,358,000",
+Coercer Interdictor,"20,074,000","21,820,000",
+Cormorant Interdictor,"23,098,000","25,107,000",
+Corax Sniper,"22,095,000","24,017,000",
+Thrasher Interdictor,"21,869,000","23,771,000",
+Talwar Sniper,"21,811,000","23,708,000",
+Nereus High Mobility,"15,761,000","17,132,000",
+Inquisitor II,"13,362,000","14,524,000",
+Nemesis,"13,128,000","14,270,000",
+Omen,"14,810,000","16,098,000",
+Purifier,"12,855,000","13,973,000",
+Navitas II,"12,849,000","13,967,000",
+Thorax Prototype,"14,255,000","15,495,000",
+Vexor,"13,972,000","15,187,000",
+Manticore,"14,773,000","16,058,000",
+Bantam II,"14,410,000","15,664,000",
+Burst II,"14,390,000","15,642,000",
+Hound,"13,871,000","15,078,000",
+Caracal,"15,817,000","17,193,000",
+Stabber,"15,471,000","16,817,000",
+Coercer Guardian,"6,994,000","7,603,000",
+Coercer Navy Issue,"6,965,000","7,571,000",
+Catalyst Navy Issue,"6,976,000","7,583,000",
+Venture III,"6,360,000","6,914,000",
+Catalyst Guardian,"6,896,000","7,496,000",
+Thrasher Fleet Issue,"8,103,000","8,808,000",
+Thrasher Guardian,"7,820,000","8,500,000",
+Cormorant Guardian,"7,463,000","8,112,000",
+Cormorant Navy Issue,"7,396,000","8,040,000",
+Imicus Covert Ops,"4,993,000","5,428,000",
+Magnate Covert Ops,"4,554,000","4,950,000",
+Navitas,"4,234,000","4,603,000",
+Inquisitor,"4,118,000","4,477,000",
+Heron Covert Ops,"5,345,000","5,810,000",
+Probe Covert Ops,"5,127,000","5,573,000",
+Algos,"3,855,000","4,191,000",
+Bantam,"4,618,000","5,020,000",
+Catalyst II,"3,640,000","3,957,000",
+Coercer II,"3,627,000","3,943,000",
+Burst,"4,460,000","4,848,000",
+Dragoon,"3,547,000","3,856,000",
+Corax,"4,374,000","4,755,000",
+Thrasher II,"4,383,000","4,765,000",
+Cormorant II,"4,173,000","4,536,000",
+Talwar,"4,197,000","4,562,000",
+Executioner II,"2,542,000","2,764,000",
+Crucifier,"2,517,000","2,736,000",
+Atron II,"2,436,000","2,648,000",
+Maulus,"2,436,000","2,648,000",
+Venture II,"1,955,000","2,125,000",
+Vigil,"2,934,000","3,190,000",
+Griffin,"2,856,000","3,105,000",
+Condor II,"2,828,000","3,074,000",
+Slasher II,"2,843,000","3,091,000",
+Venture,"986,000","1,072,000",
+Imicus High Mobility,"789,000","858,000",

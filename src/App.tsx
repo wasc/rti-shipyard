@@ -14,18 +14,17 @@ import {
 } from "@mui/material";
 
 type ShipListing = {
-  id: string;
   name: string;
-  internalPrice: number;
-  externalPrice: number;
-  blueprint: boolean;
+  corporationPrice: string;
+  alliancePrice: string;
+  additionalNotes: string;
 };
 
 function App() {
   const [shipListings, setShipSales] = React.useState<ShipListing[]>([]);
 
   React.useEffect(() => {
-    fetch("/rti-shipyard/ships.csv").then((response) => {
+    fetch("/rti-shipyard/2024-08-02-ship-listings.csv").then((response) => {
       response.text().then((text) => {
         Papa.parse(text, {
           header: true,
@@ -46,9 +45,9 @@ function App() {
             <TableHead>
               <TableRow>
                 <TableCell>Name</TableCell>
-                <TableCell align="right">Internal Price</TableCell>
-                <TableCell align="right">External Price</TableCell>
-                <TableCell align="right">Need Blueprint?</TableCell>
+                <TableCell align="right">Corporation Price</TableCell>
+                <TableCell align="right">Alliance Price</TableCell>
+                <TableCell align="right">Additional Notes</TableCell>
               </TableRow>
             </TableHead>
             <TableBody>
@@ -60,9 +59,11 @@ function App() {
                   <TableCell component="th" scope="row">
                     {listing.name}
                   </TableCell>
-                  <TableCell align="right">{listing.internalPrice}</TableCell>
-                  <TableCell align="right">{listing.externalPrice}</TableCell>
-                  <TableCell align="right">{listing.blueprint}</TableCell>
+                  <TableCell align="right">
+                    {listing.corporationPrice}
+                  </TableCell>
+                  <TableCell align="right">{listing.alliancePrice}</TableCell>
+                  <TableCell align="right">{listing.additionalNotes}</TableCell>
                 </TableRow>
               ))}
             </TableBody>
